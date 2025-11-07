@@ -8,9 +8,7 @@ Crowdify is a real-time music streaming platform where users can create rooms, i
 - 📌 **Add Songs**: Anyone in the room can add songs to the queue.
 - 👍 **Upvote Songs**: The song with the highest votes plays next.
 - 🤖 **Chat box**: Real Time chatbox.
-- 🔄 **Real-time Updates**: WebSockets ensure instant updates on song queues and votes.
-
-![image](https://github.com/user-attachments/assets/df99912c-3181-490b-8996-c47495fa93b6)
+- 🔄 **Real-time Updates**: WebSockets ensure instant updates on song queues and vote
 
 
 ## Tech Stack
@@ -22,26 +20,6 @@ Crowdify is a real-time music streaming platform where users can create rooms, i
 - **Authentication**: NextAuth / OAuth
 - **Streaming API**: YouTube API
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/crowdify.git
-   cd crowdify
-   ```
-
-2. Install dependencies:
-   ```sh
-   pnpm install
-   ```
-
-3. Set up environment variables in a `.env` file check `.env.example`:
-
-
-4. Start the development server:
-   ```sh
-   pnpm run dev
-   ```
 
 ## Usage
 
@@ -53,10 +31,6 @@ Crowdify is a real-time music streaming platform where users can create rooms, i
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repo, make improvements, and submit a PR.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
